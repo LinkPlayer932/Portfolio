@@ -2,7 +2,7 @@
 
 
 import React from "react";
-import { Instagram, Linkedin, Dribbble } from "lucide-react";
+import { Instagram, Linkedin, Dribbble, Facebook } from "lucide-react";
 
 const HeroSection = () => {
   return (
@@ -19,8 +19,8 @@ const HeroSection = () => {
           <a href="#" className="text-gray-600 hover:text-red-600 transition">
             <Instagram size={22} />
           </a>
-          <a href="#" className="text-gray-600 hover:text-red-600 transition">
-            <Dribbble size={22} />
+          <a href="https://www.facebook.com" className="text-gray-600 hover:text-red-600 transition">
+            <Facebook size={22} />
           </a>
         </div>
 

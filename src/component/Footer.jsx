@@ -1,6 +1,6 @@
 
 import React from "react";
-import { Facebook, Instagram, Github, Twitter, } from "lucide-react";
+import { Facebook, Instagram, Github, Twitter, Linkedin, } from "lucide-react";
 
 const Footer = () => {
   return (
@@ -15,11 +15,11 @@ const Footer = () => {
           <a href="#" className="hover:text-red-400 transition">
             <Instagram size={24} />
           </a>
-          <a href="#" className="hover:text-red-400 transition">
+          <a href="https://github.com/LinkPlayer932" className="hover:text-red-400 transition">
             <Github size={24} />
           </a>
-          <a href="#" className="hover:text-red-400 transition">
-            <Twitter size={24}  />
+          <a href="https://www.linkedin.com/in/muhammad-qasim-75004a386/" className="hover:text-red-400 transition">
+            <Linkedin size={24}  />
           </a>
         </div>
 

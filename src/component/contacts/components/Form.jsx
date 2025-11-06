@@ -13,7 +13,7 @@ const Form = () => {
             <Phone size={32} />
           </div>
 
-          <h4 className="text-[#0d2b6a] font-semibold mb-1">+1 2222 54748 7</h4>
+          <h4 className="text-[#0d2b6a] font-semibold mb-1">+92-326-732-4500</h4>
           <p className="text-gray-600 text-sm">
             Monday - Friday from 7am - 5pm
           </p>
@@ -25,9 +25,9 @@ const Form = () => {
             <LocationEditIcon size={32} />
           </div>
           <h4 className="text-[#0d2b6a] font-semibold mb-1">
-            London, United Kingdom
+            Gulberg 2, Lahore, Pakistan
           </h4>
-          <p className="text-gray-600 text-sm">Rosemaed, UK 91117</p>
+          <p className="text-gray-600 text-sm">Lahore, 05450</p>
         </div>
 
         {/* Email Card */}
@@ -37,7 +37,7 @@ const Form = () => {
           </div>
           <i className="fas fa-envelope text-3xl text-[#f85c50] mb-3"></i>
           <h4 className="text-[#0d2b6a] font-semibold mb-1">
-            contact@domain.com
+            Linkplayer932@gmail.com
           </h4>
           <p className="text-gray-600 text-sm">Contact me every time!</p>
         </div>
